@@ -1,7 +1,0 @@
-C:\Users\Huawei\source\repos\ClassTasks9.10.21\Laboratory Work №6\bin\Debug\Laboratory Work №6.exe.config
-C:\Users\Huawei\source\repos\ClassTasks9.10.21\Laboratory Work №6\bin\Debug\Laboratory Work №6.exe
-C:\Users\Huawei\source\repos\ClassTasks9.10.21\Laboratory Work №6\bin\Debug\Laboratory Work №6.pdb
-C:\Users\Huawei\source\repos\ClassTasks9.10.21\Laboratory Work №6\obj\Debug\Laboratory Work №6.csproj.CoreCompileInputs.cache
-C:\Users\Huawei\source\repos\ClassTasks9.10.21\Laboratory Work №6\obj\Debug\Laboratory Work №6.exe
-C:\Users\Huawei\source\repos\ClassTasks9.10.21\Laboratory Work №6\obj\Debug\Laboratory Work №6.pdb
-C:\Users\Huawei\source\repos\ClassTasks9.10.21\Laboratory Work №6\obj\Debug\Laboratory Work №6.csproj.AssemblyReference.cache
